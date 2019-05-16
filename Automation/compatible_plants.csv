@@ -1,0 +1,162 @@
+﻿rowid,Botanical_name,Common_name,Compatible_plants
+1,Asparagus officinalis,Asparagus,Parsley
+2,Asparagus officinalis,Asparagus,Basil
+3,Asparagus officinalis,Asparagus,Nasturtiums
+4,Asparagus officinalis,Asparagus,Lettuce
+5,Ocimum basilicum,Basil,Tomato
+6,Beta Vulgaris (beet),Beetroot,Onions
+7,Beta Vulgaris (beet),Beetroot,Silverbeet
+8,Beta Vulgaris (beet),Beetroot,Lettuce
+9,Beta Vulgaris (beet),Beetroot,Cabbage
+10,Beta Vulgaris (beet),Beetroot,Dwarf Beans
+11,Beta Vulgaris (beet),Beetroot,Dill
+12,Beta Vulgaris (beet),Beetroot,Peas
+13,Beta Vulgaris (beet),Beetroot,Strawberries
+14,Brassica oleracea var. italica,Broccoli,Dwarf Beans
+15,Brassica oleracea var. italica,Broccoli,Beets
+16,Brassica oleracea var. italica,Broccoli,Celery
+17,Brassica oleracea var. italica,Broccoli,Cucumber
+18,Brassica oleracea var. italica,Broccoli,Onions
+19,Brassica oleracea var. italica,Broccoli,Marigold
+20,Brassica oleracea var. italica,Broccoli,Nasturtiums
+21,Brassica oleracea var. italica,Broccoli,Rhubarb
+22,Brassica oleracea var. italica,Broccoli,Oregano
+23,Brassica oleracea var. italica,Broccoli,Dill
+24,Capsicum annum,Capsicum,Egg plant
+25,Capsicum annum,Capsicum,Nasturtiums
+26,Capsicum annum,Capsicum,Basil
+27,Capsicum annum,Capsicum,Parsley
+28,Capsicum annum,Capsicum,Amaranth
+29,Daucus glochidiatus,Australian Carrot,Onions
+30,Daucus glochidiatus,Australian Carrot,Leeks
+31,Daucus glochidiatus,Australian Carrot,Lettuce
+32,Daucus glochidiatus,Australian Carrot,Sage
+33,Daucus glochidiatus,Australian Carrot,Peas
+34,Daucus glochidiatus,Australian Carrot,Radish
+35,Daucus glochidiatus,Australian Carrot,Tomato
+36,Daucus glochidiatus,Australian Carrot,Beans
+37,Daucus glochidiatus,Australian Carrot,Celery
+38,Daucus glochidiatus,Australian Carrot,Rosemary
+39,Brassica oleracea,Cauliflower,Dwarf Beans
+40,Brassica oleracea,Cauliflower,Beets
+41,Brassica oleracea,Cauliflower,Celery
+42,Brassica oleracea,Cauliflower,Cucumber
+43,Brassica oleracea,Cauliflower,Onions
+44,Brassica oleracea,Cauliflower,Marigold
+45,Brassica oleracea,Cauliflower,Nasturtiums
+46,Brassica oleracea,Cauliflower,Rhubarb
+47,Brassica oleracea,Cauliflower,Dill
+48,Apium graveolens,Celery,Not applicable as celery needs to be close together to encourage blanching.
+49,Coriandrum sativum,Coriander,Cabbage
+50,Coriandrum sativum,Coriander, Anise
+51,Coriandrum sativum,Coriander,Chervil
+52,Coriandrum sativum,Coriander,Carrots
+53,Coriandrum sativum,Coriander,Dill
+54,Cucumis sativus,Cucumber,Nasturtiums
+55,Cucumis sativus,Cucumber,Beans
+56,Cucumis sativus,Cucumber,Celery
+57,Cucumis sativus,Cucumber,Lettuce
+58,Cucumis sativus,Cucumber,Sweet Corn
+59,Cucumis sativus,Cucumber,Sunflowers
+60,Cucumis sativus,Cucumber,Dill
+61,Cucumis sativus,Cucumber,Fennel
+62,Cucumis sativus,Cucumber,Cabbage
+63,Cucumis sativus,Cucumber,Sunflowers
+64,Cucumis sativus,Cucumber,Coriander
+65,Solanum melongena,Eggplant,Beans
+66,Solanum melongena,Eggplant,Capsicum
+67,Solanum melongena,Eggplant,Lettuce
+68,Solanum melongena,Eggplant,Amaranth
+69,Solanum melongena,Eggplant,Thyme
+70,Allium ampeloprasum,Leeks,Carrots
+71,Lactuca sativa,Lettuce,Carrots
+72,Lactuca sativa,Lettuce,Onions
+73,Lactuca sativa,Lettuce,Strawberries
+74,Lactuca sativa,Lettuce,Beets
+75,Lactuca sativa,Lettuce,Brassicas
+76,Lactuca sativa,Lettuce,Radish
+77,Lactuca sativa,Lettuce,Marigold
+78,Lactuca sativa,Lettuce,Borage
+79,Lactuca sativa,Lettuce,Chervil
+80,Lactuca sativa,Lettuce,Florence fennel
+81,Lactuca sativa,Lettuce,Leeks
+82,Allium cepa,Onions,Lemon Balm
+83,Allium cepa,Onions,Borage
+84,Allium cepa,Onions,Carrots
+85,Allium cepa,Onions,Beets
+86,Allium cepa,Onions,Silverbeet
+87,Allium cepa,Onions,Lettuce
+88,Allium cepa,Onions,Amaranth
+89,Petroselinum crispum,Parsley,Carrots
+90,Petroselinum crispum,Parsley,Chives
+91,Petroselinum crispum,Parsley,Tomato
+92,Petroselinum crispum,Parsley,Asparagus
+93,Pastinaca sativa,Parsnip,Silverbeet
+94,Pastinaca sativa,Parsnip,Capsicum
+95,Pastinaca sativa,Parsnip,Peas
+96,Pastinaca sativa,Parsnip,Potatoes
+97,Pastinaca sativa,Parsnip,Beans
+98,Pastinaca sativa,Parsnip,Radish
+99,Pastinaca sativa,Parsnip,Garlic
+100,Pisum sativum,Peas,Potatoes
+101,Solanum tuberosum,Potatoes,Peas
+102,Solanum tuberosum,Potatoes,Beans
+103,Solanum tuberosum,Potatoes,Brassicas
+104,Solanum tuberosum,Potatoes,Sweet Corn
+105,Solanum tuberosum,Potatoes,Broad Beans
+106,Solanum tuberosum,Potatoes,Nasturtiums
+107,Solanum tuberosum,Potatoes,Marigold
+108,Cucurbita,Pumpkin,Sweet Corn
+109,Raphanus raphanistrum,Radish,Chervil
+110,Raphanus raphanistrum,Radish,Cress
+111,Raphanus raphanistrum,Radish,Lettuce
+112,Raphanus raphanistrum,Radish,Leeks
+113,Raphanus raphanistrum,Radish,Spinach
+114,Raphanus raphanistrum,Radish,Strawberries
+115,Raphanus raphanistrum,Radish,Tomato
+116,Rheum rhabarbarum,Rhubarb,Cabbage
+117,Rheum rhabarbarum,Rhubarb,Broccoli
+118,Rheum rhabarbarum,Rhubarb,Cauliflower
+119,Eruca vesicaria,Rocket,Lettuce
+120,Eruca vesicaria,Rocket,Lavender
+121,Eruca vesicaria,Rocket,Chives
+122,Eruca vesicaria,Rocket,Garlic
+123,Eruca vesicaria,Rocket,Tomato
+124,Eruca vesicaria,Rocket,Parsnip
+125,Eruca vesicaria,Rocket,Cauliflower
+126,Eruca vesicaria,Rocket,Cabbage
+127,Beta vulgaris,Silver beet,Beans
+128,Spinacia oleracea,Spinach,Broad beans (fava)
+129,Spinacia oleracea,Spinach,Cabbage
+130,Spinacia oleracea,Spinach,Cauliflower
+131,Spinacia oleracea,Spinach,Santolina
+132,Spinacia oleracea,Spinach,Celery
+133,Spinacia oleracea,Spinach,Egg plant
+134,Spinacia oleracea,Spinach,Onions
+135,Spinacia oleracea,Spinach,Peas
+136,Spinacia oleracea,Spinach,Strawberries
+137,Allium fistulosum,Spring onions,Lemon Balm
+138,Allium fistulosum,Spring onions,Borage
+139,Allium fistulosum,Spring onions,Carrots
+140,Allium fistulosum,Spring onions,Beets
+141,Allium fistulosum,Spring onions,Silverbeet
+142,Allium fistulosum,Spring onions,Lettuce
+143,Allium fistulosum,Spring onions,Amaranth
+144,Thymus vulgaris,Thyme,Oregano
+145,Thymus vulgaris,Thyme,Egg plant
+146,Thymus vulgaris,Thyme,Cabbage
+147,Thymus vulgaris,Thyme,Sage
+148,Lycopersicon esculentum,Tomatoes,Asparagus
+149,Lycopersicon esculentum,Tomatoes,Chervil
+150,Lycopersicon esculentum,Tomatoes,Carrots
+151,Lycopersicon esculentum,Tomatoes,Celery
+152,Lycopersicon esculentum,Tomatoes,Basil
+153,Lycopersicon esculentum,Tomatoes,Chives
+154,Lycopersicon esculentum,Tomatoes,Parsley
+155,Lycopersicon esculentum,Tomatoes,Marigold
+156,Cucurbita pepo,Zucchini,Corn
+157,Cucurbita pepo,Zucchini,Beans
+158,Cucurbita pepo,Zucchini,Nasturtiums
+159,Cucurbita pepo,Zucchini,Parsley
+160,Cucurbita pepo,Zucchini,Silverbeet
+161,Cucurbita pepo,Zucchini,Tomato

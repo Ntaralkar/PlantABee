@@ -1,0 +1,64 @@
+﻿rowid,Botanical_name,Common_name,Incompatible_plants
+1,Asparagus officinalis,Asparagus,Garlic
+2,Asparagus officinalis,Asparagus,Onions
+3,Asparagus officinalis,Asparagus,Root vegetables
+4,Beta Vulgaris (beet),Beetroot,Asparagus
+5,Beta Vulgaris (beet),Beetroot,Carrots
+6,Beta Vulgaris (beet),Beetroot,Sweetcorn
+7,Beta Vulgaris (beet),Beetroot,Spinach
+8,Brassica oleracea var. italica,Broccoli,Climbing (pole) beans
+9,Brassica oleracea var. italica,Broccoli,Tomato
+10,Brassica oleracea var. italica,Broccoli,Chilli
+11,Brassica oleracea var. italica,Broccoli,Eggplant
+12,Brassica oleracea var. italica,Broccoli,Strawberry
+13,Brassica oleracea var. italica,Broccoli,Mustard
+14,Brassica oleracea,Cauliflower,Climbing (pole) beans
+15,Brassica oleracea,Cauliflower,Chilli
+16,Brassica oleracea,Cauliflower,Capsicum
+17,Brassica oleracea,Cauliflower,Parsnip
+18,Brassica oleracea,Cauliflower,Eggplant
+19,Brassica oleracea,Cauliflower,Strawberry
+20,Brassica oleracea,Cauliflower,Mustard
+21,Daucus glochidiatus,Australian Carrot,Parsnip
+22,Daucus glochidiatus,Australian Carrot,Beetroot
+23,Daucus glochidiatus,Australian Carrot,Brassicas
+24,Daucus glochidiatus,Australian Carrot,Fennel
+25,Brassica oleracea,Cauliflower,Climbing (pole) beans
+26,Brassica oleracea,Cauliflower,Eggplant
+27,Brassica oleracea,Cauliflower,Strawberry
+28,Brassica oleracea,Cauliflower,Mustard
+29,Brassica oleracea,Cauliflower,Capsicum
+30,Brassica oleracea,Cauliflower,Tomato
+31,Apium graveolens,Celery,Sweetcorn
+32,Coriandrum sativum,Coriander,Fennel
+33,Cucumis sativus,Cucumber,Tomato
+34,Cucumis sativus,Cucumber,Potatoes
+35,Solanum melongena,Eggplant,Potatoes
+36,Lactuca sativa,Lettuce,Celery
+37,Lactuca sativa,Lettuce,Parsley
+38,Allium cepa,Onions,Peas
+39,Allium cepa,Onions,Beans
+40,Petroselinum crispum,Parsley,Potatoes
+41,Pastinaca sativa,Parsnip,Carrot
+42,Pastinaca sativa,Parsnip,Celery
+43,Pastinaca sativa,Parsnip,Brassicas
+44,Solanum tuberosum,Potatoes,Cucumber
+45,Solanum tuberosum,Potatoes,Pumpkin
+46,Solanum tuberosum,Potatoes,Rosemary
+47,Solanum tuberosum,Potatoes,Sunflowers
+48,Solanum tuberosum,Potatoes,Tomato
+49,Cucurbita,Pumpkin,Potatoes
+50,Cucurbita,Pumpkin,Gherkins
+51,Raphanus raphanistrum,Radish,Hyssop
+52,Beta vulgaris,Silver beet,Corn
+53,Beta vulgaris,Silver beet,Melon
+54,Beta vulgaris,Silver beet,Cucumbers
+55,Beta vulgaris,Silver beet,squash
+56,Beta vulgaris,Silver beet,gourds
+57,Beta vulgaris,Silver beet,Potatoes
+58,Allium fistulosum,Spring onions,Peas
+59,Allium fistulosum,Spring onions,Beans
+60,Lycopersicon esculentum,Tomatoes,Rosemary
+61,Lycopersicon esculentum,Tomatoes,Potatoes
+62,Lycopersicon esculentum,Tomatoes,Fennel
+63,Cucurbita pepo,Zucchini,Potatoes
